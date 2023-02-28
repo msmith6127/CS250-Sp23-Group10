@@ -2,3 +2,4 @@
 CS250 projects
 Matthew Smith
 Nicholas Stark
+Alicia Loya
