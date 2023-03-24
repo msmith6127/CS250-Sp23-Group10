@@ -12,3 +12,4 @@ Alicia Loya
 Assignment 2 currently in progress
 Due 3/10
 Assignment 2 completed
+Assignment 3 completed
